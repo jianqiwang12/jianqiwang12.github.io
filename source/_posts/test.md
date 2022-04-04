@@ -7,3 +7,5 @@ categories:
 ---
 
 This is a new test on Windows 10.
+
+This is a new test on M1 Mac.
