@@ -8,7 +8,7 @@ subtitle:
 description: 
 keywords:
 author: WY2
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -111,7 +111,7 @@ jsonContent:
     raw: false
     content: false
     slug: false
-    updated: false
+    updated: true
     comments: false
     link: false
     permalink: false
