@@ -2,7 +2,9 @@
 
 menu:
   主页: /
-  归档: /archives/index.html
+  目录: /archives/
+  -关于我-: /about/
+
 
 # SubNav
 subnav:
@@ -12,12 +14,12 @@ subnav:
   #zhihu: "#"
   #qq: "#"
   #weixin: "#"
-  jianshu: https://www.jianshu.com/u/b90f5d6604a6
+  #jianshu: 
   #douban: "#"
   #segmentfault: "#"
   #bilibili: "#"
   #acfun: "#"
-  #mail: "mailto:litten225@qq.com"
+  #mail: 
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -45,9 +47,9 @@ open_in_new: false
 # 打赏type设定：0-关闭打赏； 1-文章对应的md文件里有reward:true属性，才有打赏； 2-所有文章均有打赏
 reward_type: 0
 # 打赏wording
-reward_wording: '一分也是爱'
+reward_wording: 
 # 支付宝二维码图片地址，跟你设置头像的方式一样。比如：/assets/img/alipay.jpg
-alipay: /img/alipay.png
+alipay: 
 # 微信二维码图片地址
 weixin: 
 
@@ -115,13 +117,7 @@ slider:
 #smart_menu:
 #  friends: false
 smart_menu:
-  innerArchive: '所有文章'
-  friends: '我的'
-  aboutme: '关于'
+  innerArchive: '搜索文章>>'
+  friends: false
+  aboutme: false
 
-friends:
-  GitHub: https://github.com/jianqiwang12
-  简书: https://www.jianshu.com/u/b90f5d6604a6
-  
-
-aboutme: <br>上古神兽之科研狗<br><br>记录所学、所见与所想<br>
